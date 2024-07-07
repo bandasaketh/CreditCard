@@ -1,0 +1,12 @@
+Transaction_ID,Account_Number,Name,Transaction_Amount,Transaction_Type,Date,Fraudulent,Detected_Fraud
+1,123456789012,Vignesh Goud,2500,Purchase,15-01-2023,No,No
+2,987654321098,Neha Thakur,500,Purchase,16-01-2023,No,No
+3,564738291012,Kiran Gaud,3000,Purchase,17-01-2023,Yes,Yes
+4,374829102938,Saketh Banda,150,Purchase,18-01-2023,No,No
+5,109283746512,Saif Khan,7000,Purchase,19-01-2023,Yes,Yes
+6,837261940512,Smita Karande,50,Purchase,20-01-2023,No,No
+7,102938475601,Priya Saud,100,Purchase,21-01-2023,No,No
+8,746281093840,Saikiran Chi,4000,Purchase,22-01-2023,Yes,Yes
+9,938475610284,Dinesh Ram,200,Purchase,23-01-2023,No,No
+10,384920176548,Henry Lee,6000,Purchase,24-01-2023,Yes,Yes
+,,,,,,,
